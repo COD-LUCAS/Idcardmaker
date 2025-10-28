@@ -1,34 +1,49 @@
-# 🪪 Student ID Card Generator
+<h1 align="center">🪪 Student ID Card Generator</h1>
 
-Create professional **Student ID Cards** instantly — built with [Next.js](https://nextjs.org/) + [Tailwind CSS]
-
-# 🪪 Student ID Card Generator
-
-Create professional **Student ID Cards** instantly — built with [Next.js](https://nextjs.org/) + [Tailwind CSS](https://tailwindcss.com/).
+<p align="center">
+  <b>Create beautiful Student ID Cards instantly</b><br>
+  Built with <a href="https://nextjs.org/">Next.js</a> + <a href="https://tailwindcss.com/">Tailwind CSS</a><br><br>
+  <a href="https://github.com/COD-LUCAS/student-id-generator">
+    <img src="https://img.shields.io/github/stars/COD-LUCAS/student-id-generator?style=for-the-badge&color=0ea5e9" alt="Stars"/>
+  </a>
+  <a href="https://vercel.com/">
+    <img src="https://img.shields.io/badge/Deployed%20on-Vercel-000?style=for-the-badge&logo=vercel" alt="Vercel"/>
+  </a>
+  <a href="https://instagram.com/cod_lucxs">
+    <img src="https://img.shields.io/badge/Follow%20on%20Instagram-%40cod__lucxs-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 Features
-- ⚡ Instant ID card generation  
+### 🌐 **Live Demo**
+🎯 [**Click here to view the app**](https://ardmaker.onrender.com)  
+(You can update this with your final Vercel link)
+
+---
+
+## ✨ Features
+- ⚡ Instant Student ID card generation  
 - 🖼️ Upload & preview student photo  
-- 🧾 Auto display student details (Name, Dept, Year, etc.)  
-- 🖨️ Print / Save as PDF support  
-- 📱 Responsive, modern UI  
+- 🧾 Auto-display details (Name, Dept, Year, Blood Group, etc.)  
+- 🖨️ Print / Save as PDF  
+- 📱 Fully responsive design  
+- 🧠 Built with clean React components  
 
 ---
 
-## 🧰 Tech Stack
+## 🧩 Tech Stack
 
-| Tech | Description |
-|------|--------------|
-| ![Next.js Logo](https://skillicons.dev/icons?i=nextjs) | **Next.js** – React framework for modern web apps |
-| ![React Logo](https://skillicons.dev/icons?i=react) | **React** – Component-based UI |
-| ![Tailwind CSS Logo](https://skillicons.dev/icons?i=tailwind) | **Tailwind CSS** – Utility-first styling |
-| ![Vercel Logo](https://skillicons.dev/icons?i=vercel) | **Vercel** – Deployment & hosting |
+| Technology | Description |
+|-------------|-------------|
+| <img src="https://skillicons.dev/icons?i=nextjs" width="35" /> | **Next.js** – Full-stack React framework |
+| <img src="https://skillicons.dev/icons?i=react" width="35" /> | **React** – Component-based UI |
+| <img src="https://skillicons.dev/icons?i=tailwind" width="35" /> | **Tailwind CSS** – Utility-first CSS framework |
+| <img src="https://skillicons.dev/icons?i=vercel" width="35" /> | **Vercel** – Deployment & hosting platform |
 
 ---
 
-## 📂 Project Structure
+## 🗂️ Project Structure
 
 student-id-generator/ ├── app/ │   ├── layout.js │   ├── page.js │   └── globals.css ├── public/ ├── package.json ├── next.config.js ├── postcss.config.js ├── tailwind.config.js └── README.md
 
@@ -55,7 +70,7 @@ npm start
 
 ---
 
-🌐 Deployment on Vercel
+🚀 Deployment on Vercel
 
 1. Go to Vercel
 
@@ -63,16 +78,16 @@ npm start
 2. Import your GitHub repository
 
 
-3. Framework: Next.js
+3. Framework preset → Next.js
 
 
-4. Build Command: npm run build
+4. Build command → npm run build
 
 
-5. Output Directory: .next
+5. Output directory → .next
 
 
-6. Click Deploy 🚀
+6. Click Deploy 🎉
 
 
 
@@ -81,46 +96,27 @@ npm start
 
 📸 Preview
 
-Easily generate a student ID card with:
+> Easily generate digital student ID cards with uploaded photos and dynamic student details.
 
-Name
-
-Student ID
-
-Department
-
-Year
-
-Blood Group
-
-Date of Birth
-
-Valid Until
-
-Photo Upload
 
 
 
 ---
 
-🧑‍💻 Author
+👨‍💻 Author
 
-@COD-LUCAS
-📸 Instagram: @cod_lucxs
-
-
+<p align="center">
+  <a href="https://github.com/COD-LUCAS">
+    <img src="https://skillicons.dev/icons?i=github" width="25" /> @COD-LUCAS
+  </a><br>
+  <a href="https://instagram.com/cod_lucxs">
+    <img src="https://skillicons.dev/icons?i=instagram" width="25" /> @cod_lucxs
+  </a>
+</p>
 ---
 
-💖 Support
+<p align="center">
+  Made with ❤️ by <b>COD-LUCAS</b><br>
+  If you like this project, give it a ⭐ on GitHub!
+</p>---
 
-If you like this project, consider giving it a ⭐ on GitHub!
-
-
----
-
-
-
----
-
-Would you like me to add a “Live Demo” link (your Vercel site) at the top with a button-style badge too?  
-Example: **[🔗 Live Demo on Vercel](https://ardmaker.onrender.com)**
