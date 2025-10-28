@@ -1,35 +1,6 @@
 # 🪪 Student ID Card Generator
 
-Create professional **Student ID Cards** instantly — built with [Next.js](https://nextjs.org/) + [Tailwind CSS](https://tailwindcss.com/).
-
----
-
-## 🚀 Features
-- ⚡ Instant ID card generation  
-- 🖼️ Upload & preview student photo  
-- 🧾 Auto display student details (Name, Dept, Year, etc.)  
-- 🖨️ Print / Save as PDF support  
-- 📱 Responsive, modern UI  
-
----
-
-## 🧰 Tech Stack
-
-| Tech | Description |
-|------|--------------|
-| ![Next.js Logo](https://skillicons.dev/icons?i=nextjs) | **Next.js** – React framework for modern web apps |
-| ![React Logo](https://skillicons.dev/icons?i=react) | **React** – Component-based UI |
-| ![Tailwind CSS Logo](https://skillicons.dev/icons?i=tailwind) | **Tailwind CSS** – Utility-first styling |
-| ![Vercel Logo](https://skillicons.dev/icons?i=vercel) | **Vercel** – Deployment & hosting |
-
----
-
-## 📂 Project Structure# Idcardmaker
-Perfect 😎 Here’s your copy-ready README.md — with real logos, clickable badges, and your GitHub + Instagram linked.
-Just copy this full block and paste it into a file named README.md in your project root 👇
-
-
----
+Create professional **Student ID Cards** instantly — built with [Next.js](https://nextjs.org/) + [Tailwind CSS]
 
 # 🪪 Student ID Card Generator
 
